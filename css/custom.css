@@ -79,11 +79,11 @@ header li{
   margin-top:-135px;   
   height: 250px;
   width: 250px;
-  display:block;
+  
   margin-left:auto;
   margin-right:auto;
   border-radius: 50%;
-  border:10px solid #333;
+ 
 }       
 
 /*
