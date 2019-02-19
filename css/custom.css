@@ -167,6 +167,9 @@ header li{
 	grid-area: content;
 	text-align: left ;
 	margin : auto;
+	margin-top: inherit;
+	margin-right: inherit;
+	margin-bottom: inherit;
 }
 #soccer img{
 	grid-area: graphic;
