@@ -245,6 +245,10 @@ header li{
   width: 45% ;
   display: inline;
 }
+#CS120B .graphic img{
+	width: 60%
+	display: right; 
+}
 
 /*skills*/
 #skills .content{
