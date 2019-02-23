@@ -74,7 +74,7 @@ header li{
 #profile{
 	display: none;
 }
-#profile-pic{
+#profile-pic :hover:not(.active){
 
   margin-top:-135px;
   height: 180px;
@@ -85,7 +85,7 @@ header li{
 
 }
 #profile-pic :hover{
-	background-attachment: scroll;
+background-color: inherit;
 }
 
 /*
