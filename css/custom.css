@@ -84,6 +84,9 @@ header li{
   border-radius: 50%;
 
 }
+#profile-pic :hover{
+	background-attachment: scroll;
+}
 
 /*
 #profile{
