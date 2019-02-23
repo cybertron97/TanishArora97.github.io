@@ -246,8 +246,10 @@ header li{
   display: inline;
 }
 #CS120B .graphic img{
-	width: 55% ;
-	display: inline;
+/*	width: 55% ;*/
+	/*display: inline;*/
+	height: auto;
+	width: auto;
 }
 
 /*skills*/
