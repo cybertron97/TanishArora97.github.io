@@ -74,7 +74,7 @@ header li{
 #profile{
 	display: none;
 }
-#profile-pic :hover:not(.active){
+#profile-pic {
 
   margin-top:-135px;
   height: 180px;
