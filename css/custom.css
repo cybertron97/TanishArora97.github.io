@@ -250,6 +250,7 @@ header li{
 	/*display: inline;*/
 	height: auto;
 	width: auto;
+	align-content: center;
 }
 
 /*skills*/
