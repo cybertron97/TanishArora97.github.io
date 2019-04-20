@@ -40,7 +40,7 @@ header{
 	-o-background-size: cover ;
 	text-align: left;
 	display: grid;
-	align-content: center;
+	align-content: left;
 	color: #67E1D6  ;
 }
 
