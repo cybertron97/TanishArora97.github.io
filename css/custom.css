@@ -38,9 +38,9 @@ header{
 	-moz-background-size: cover ;
 	background-size: cover ;
 	-o-background-size: cover ;
-	text-align: center;
+	text-align: left;
 	display: grid;
-	align-content: left ;
+	align-content: center;
 	color: #67E1D6  ;
 }
 
