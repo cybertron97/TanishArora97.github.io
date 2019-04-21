@@ -9,10 +9,10 @@ section{
 	padding-right: 10%;
 }
 h1{
-	color: #604848;
+	color: #4E4C4C;
 }
 h3{
-	color: #604848;
+	color: #4E4C4C;
 }
 
 .btn-social-icon{
@@ -296,7 +296,7 @@ background-color: #111;
 	grid-area: list ;
 }
 #contact .btn-social-icon{
-	background-color: #604848;
+	background-color: #4E4C4C;
 }
 #contact .btn-social-icon:hover{
 	background-color: #fff;
