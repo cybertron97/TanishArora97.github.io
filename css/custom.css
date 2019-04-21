@@ -201,8 +201,10 @@ background-color: #111;
 }
 #bike img{
 	grid-area: graphic;
-	border-radius: 50% ;
-	width: 90%;
+	height: 160px;
+        width: 160px;
+	border-radius: 50%;
+	 
 }
 
 #about #japan{
