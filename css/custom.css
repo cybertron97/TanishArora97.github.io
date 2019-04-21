@@ -41,16 +41,16 @@ header{
 	text-align: center;
 	display: grid;
 	align-content: center;
-	color: #8F3A8400  ;
+	color: #F5F5F5  ;
 }
 
 header h1{
 	font-weight: 600;
-	color: #8F3A8400  ;
+	color: #F5F5F5  ;
 }
 header h3{
 	font-weight: 600;
-	color: #8F3A8400  ;
+	color: #F5F5F5  ;
 }
 
 header .break{
