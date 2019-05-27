@@ -14,6 +14,11 @@ h1{
 h3{
 	color: #4E4C4C;
 }
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
 
 .btn-social-icon{
 	height: 50px;
