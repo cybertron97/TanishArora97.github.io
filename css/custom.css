@@ -15,7 +15,7 @@ h3{
 	color: #4E4C4C;
 }
 html, body {
-  height: 100%;
+  /*height: 100%;*/
   margin: 0;
   overflow: hidden;
 }
