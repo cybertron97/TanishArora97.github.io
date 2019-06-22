@@ -229,12 +229,12 @@ background-color: #111;
 	grid-template-columns: repeat( auto-fit , minmax( 150px ,auto ) ) ;
 }
 #webDev .graphic img{
-  width: 55% ;
+  width: 45% ;
   display: inline;
 }
 
 #seniorDesign .graphic img{
-  width: 45% ;
+  width: 60% ;
   display: inline;
 }
 #CS120B .graphic img{
