@@ -229,7 +229,7 @@ background-color: #111;
 	grid-template-columns: repeat( auto-fit , minmax( 150px ,auto ) ) ;
 }
 #webDev .graphic img{
-  width: 60% ;
+  width: 55% ;
   display: inline;
 }
 
