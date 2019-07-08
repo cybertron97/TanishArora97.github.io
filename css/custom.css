@@ -9,10 +9,10 @@ section{
 	padding-right: 10%;
 }
 h1{
-	color: #604848;
+	color: #4E4C4C;
 }
 h3{
-	color: #604848;
+	color: #4E4C4C;
 }
 
 .btn-social-icon{
@@ -32,25 +32,25 @@ h3{
 
 header{
 	height: 100vh;
-	background-image: url("../images/about.jpg");
+	background-image: url("../images/hello.jpg");
 	background-position: center ;
 	-webkit-background-size: cover;
 	-moz-background-size: cover ;
 	background-size: cover ;
 	-o-background-size: cover ;
-	text-align: center ;
+	text-align: center;
 	display: grid;
-	align-content: center ;
-	color: #333;
+	align-content: center;
+	color: #ECEFF1 ;
 }
 
 header h1{
 	font-weight: 600;
-	color: #333;
+	color: #ECEFF1  ;
 }
 header h3{
 	font-weight: 600;
-	color: #333;
+	color: #ECEFF1 ;
 }
 
 header .break{
@@ -155,7 +155,7 @@ background-color: #111;
 }*/
 
 /*About*/
-#about #soccer{
+#about #hiking{
 	display: grid;
 	width: 100%;
 	grid-gap: 18px;
@@ -166,14 +166,14 @@ background-color: #111;
 		;
 }
 
-#soccer .content{
+#hiking .content{
 	grid-area: content;
 	text-align: left ;
 	margin : auto;
 	margin-top:-0.5px;
 
 }
-#soccer img{
+#hiking img{
 	grid-area: graphic;
 
 
@@ -185,7 +185,7 @@ background-color: #111;
 }
 
 
-#about #bike{
+#about #music{
 	display: grid;
 	grid-gap: 20px;
 	align-content: center ;
@@ -195,35 +195,19 @@ background-color: #111;
 		;
 }
 
-#bike .content{
+#music .content{
 	grid-area: content;
 	text-align: right ;
 }
-#bike img{
+#music img{
 	grid-area: graphic;
-	border-radius: 50% ;
-	width: 90%;
+	height: 145px;
+        width: 160px;
+	border-radius: 50%;
+
 }
 
-#about #japan{
-	display: grid;
-	width: 100%;
-	grid-gap: 20px;
-	align-content: center ;
-	grid-template-columns: 1fr 2fr ;
-	grid-template-areas:
-		"graphic content"
-		;
-}
-#japan .content{
-	grid-area: content;
-	text-align: left ;
-}
-#japan img{
-	grid-area: graphic;
-	border-radius: 50% ;
-	width: 90%;
-}
+
 
 /*portfolio*/
 #portfolio .graphic{
@@ -246,6 +230,11 @@ background-color: #111;
 }
 #webDev .graphic img{
   width: 45% ;
+  display: inline;
+}
+
+#seniorDesign .graphic img{
+  width: 75% ;
   display: inline;
 }
 #CS120B .graphic img{
@@ -296,7 +285,7 @@ background-color: #111;
 	grid-area: list ;
 }
 #contact .btn-social-icon{
-	background-color: #604848;
+	background-color: #4E4C4C;
 }
 #contact .btn-social-icon:hover{
 	background-color: #fff;
@@ -348,21 +337,7 @@ background-color: #111;
 }
 
 @media ( min-width: 800px ) {
-	/*
-	body{
-		display: grid;
-		grid-row-gap: 50px ;
-		grid-template-columns: 250px auto;
-		grid-template-areas:
-		"header header"
-		". content1"
-		". content2"
-		". content3"
-		". content4"
-		". content5"
-		;
-	}
-	*/
+
 	#profile{
 		width: 225px ;
 		display: none;
